@@ -12,4 +12,5 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 ## The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name :
 
+<img width="1000" alt="image" src="https://github.com/aeroldtorregoza/decoratorPattern/assets/143488240/472dd5bd-8c3a-445c-a15a-9233b0d1f05f">
 
